@@ -1,6 +1,6 @@
 # Example spec file for hadoop
 Summary: Apache hadoop
-Name: didi-hadoop
+Name: hadoop
 Version: 2.7.2
 Release: 300%{?dist}
 License: GPL

@@ -1,6 +1,6 @@
 # Example spec file for hadoop
 Summary: Apache Hive
-Name: didi-hive
+Name: hive
 Version: 1.2.1
 Release: 200%{?dist}
 License: GPL

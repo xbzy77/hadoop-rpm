@@ -1,6 +1,6 @@
 # Example spec file for hadoop
 Summary: Apache spark
-Name: didi-spark
+Name: spark
 Version: 2.1
 Release: 200
 License: GPL
