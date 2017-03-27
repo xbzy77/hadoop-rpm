@@ -73,5 +73,5 @@ rm -f %{SOURCE1}  %{SOURCE2}   %{SOURCE0}
 %defattr(-,root,root)
 /usr/local/%{name}-%{version}-%{release}
 %changelog
-* Thu  Mar  15   2017  xbz <xbzy007@didichuxing.com>
+* Thu  Mar  15   2017  xbz <xbzy007@007.com>
 - Add rpm package
